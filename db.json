@@ -1,0 +1,24 @@
+{
+    "code": 200,
+    "status": "success",
+    "message": "data fetched successfully.",
+    "data": {
+        "results": [
+            {
+                "id": "8598",
+                "name": "jeeveshpratap8@gmail.com",
+                "email": "jeeveshpratap8@gmail.com",
+                "mobile": "9096274735",
+                "foreignkey": "jeeveshpratap8@gmail.com"
+            },
+            {
+                "id": "8557",
+                "name": "jeevesh.singh@netcorecloud.com",
+                "email": "jeevesh.singh@netcorecloud.com",
+                "mobile": "9096274735",
+                "foreignkey": "jeevesh.singh@netcorecloud.com"
+            }
+        ],
+        "count": "2"
+    }
+}
